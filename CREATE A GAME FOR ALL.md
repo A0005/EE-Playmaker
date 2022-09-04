@@ -1,6 +1,9 @@
 Principles:
+
 1 - Defend your area
+
 2 - Attack your opponent 
+
 3 - Score more goals
 
 Laws:
