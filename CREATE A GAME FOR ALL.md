@@ -1,7 +1,7 @@
 Principles:
-Defend your area
-Attack your opponent 
-Score more goals
+1 - Defend your area
+2 - Attack your opponent 
+3 - Score more goals
 
 Laws:
 Pitch size
